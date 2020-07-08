@@ -23,7 +23,7 @@ Simple JavaScript code of protobuf over websocket.
 
 ## Usage
 
-After installations complete, open terminal and change directory to folder location then run the command below
+After installation is complete, open terminal and change directory to folder location then run the command below
 
 `protoc --js_out=import_style=commonjs,binary:./pb  protos/user.proto`
 
@@ -32,7 +32,7 @@ This command read the file `protos/user.proto` and produce a single output file,
 
 ## Learn More
 
-You can learn more in the below
+You can learn more below
 
 [Protocol Buffer Compiler Installation](https://grpc.io/docs/protoc-installation/).
 
